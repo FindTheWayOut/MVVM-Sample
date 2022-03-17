@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMSample.View.StudentPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Text="{Binding Name}" x:Name="name"/>
+            <Entry Text="{Binding Group}" x:Name="group"/>
+            <Button Command="{Binding ListViewModel.SaveStudentCommand}" CommandParameter="{Binding}" Text="add"/>
+            <Button Command="{Binding ListViewModel.DeleteStudentCommand}" CommandParameter="{Binding}" Text="del"/>
+            <Button Command="{Binding ListViewModel.BackCommand}" Text="Cancel"/>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

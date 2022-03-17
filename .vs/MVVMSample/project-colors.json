@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7edb47e6-c9e4-4852-94b0-3e73452a3c6c": {
+      "ProjectGuid": "7edb47e6-c9e4-4852-94b0-3e73452a3c6c",
+      "DisplayName": "MVVMSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

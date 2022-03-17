@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVMSample.View.StudentListPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView
+                x:Name="studList" 
+                ItemsSource="{Binding Students}"
+                SelectedItem="{Binding SelectedStudent}" 
+                HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout>
+                                    <Label 
+                                        Text="{Binding Name}" 
+                                        FontSize="40"  
+                                        TextColor="Black"/>
+                                    <Label 
+                                        Text="{Binding Group}"
+                                        FontSize="20" 
+                                        TextColor="Black"/>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Add Stud" Command="{Binding CreateStudentCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\bin\Debug\netstandard2.0\MVVMSample.deps.json
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\bin\Debug\netstandard2.0\MVVMSample.dll
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\bin\Debug\netstandard2.0\ref\MVVMSample.dll
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\bin\Debug\netstandard2.0\MVVMSample.pdb
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.csproj.AssemblyReference.cache
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\View\StudentListPage.xaml.g.cs
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.AssemblyInfoInputs.cache
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.AssemblyInfo.cs
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.dll
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\ref\MVVMSample.dll
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\MVVMSample.pdb
+C:\Users\qwerty\source\repos\MVVMSample\MVVMSample\MVVMSample\obj\Debug\netstandard2.0\View\StudentPage.xaml.g.cs
