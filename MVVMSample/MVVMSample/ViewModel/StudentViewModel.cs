@@ -10,10 +10,7 @@ namespace MVVMSample.ViewModel
 
         public Student Student { get; private set; }
 
-        public StudentViewModel()
-        {
-            Student = new Student();
-        }
+        public StudentViewModel() => Student = new Student();
 
         public StudentListViewModel ListViewModel
         {
